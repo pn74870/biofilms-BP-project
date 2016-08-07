@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\pn748_000\documents\visual studio 2015\projects\win32project1\win32project1\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>164</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'k' hides previous declaration at line '19' of 'c:\users\pn748_000\documents\visual studio 2015\projects\win32project1\win32project1\source.cpp'.</DESCRIPTION>
+    <FUNCTION>fixTouching</FUNCTION>
+    <DECORATED>?fixTouching@@YA_NABUParticle@@AAUVec3@@@Z</DECORATED>
+    <FUNCLINE>131</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\pn748_000\documents\visual studio 2015\projects\win32project1\win32project1\</FILEPATH>
+        <FILENAME>source.cpp</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>
