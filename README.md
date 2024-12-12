@@ -9,5 +9,6 @@ University of Manchester
 •	Compared results of the simulation to an experimental data of bacterial adhesion process. 
 
 •	Modeling physical processes, implementing collision detection and numerical integration algorithms, computing inter-particle forces by solving linear systems in MATLAB and C++.
-
-[Poster of the project](./biof/BP poster.pdf)
+## Documentation
+You can find additional details in the
+[project documentation](./biof/BP poster.pdf)
