@@ -11,4 +11,5 @@ University of Manchester
 •	Modeling physical processes, implementing collision detection and numerical integration algorithms, computing inter-particle forces by solving linear systems in MATLAB and C++.
 ## Poster
 You can find additional details in the
-![Alt text](biof/BPposter.png)
+[View PDF Documentation](biof/BPposter.pdf)
+
